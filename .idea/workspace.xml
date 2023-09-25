@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36163a21-2e3d-41fe-8196-cf4644085e56" name="Changes" comment="test results grade checker app made with nested conditionals">
-      <change afterPath="$PROJECT_DIR$/src/main/java/decision_structure/GradeMessage.java" afterDir="false" />
+    <list default="true" id="36163a21-2e3d-41fe-8196-cf4644085e56" name="Changes" comment="created grade message app using switch cases">
+      <change afterPath="$PROJECT_DIR$/src/main/java/decision_structure/GradeMessage_SwitchExpressions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +41,12 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.GradeMessage">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="decision_structure" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.GradeMessage_SwitchExpressions">
     <configuration name="GradeMessage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="decision_structure.GradeMessage" />
       <module name="java_fundamentals" />
@@ -55,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GrossPayCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics.GrossPayCalculator" />
+    <configuration name="GradeMessage_SwitchExpressions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="decision_structure.GradeMessage_SwitchExpressions" />
       <module name="java_fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basics.*" />
+          <option name="PATTERN" value="decision_structure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GradeMessage_SwitchExpressions" />
         <item itemvalue="Application.GradeMessage" />
         <item itemvalue="Application.TestResults" />
         <item itemvalue="Application.QuotaCalculator" />
         <item itemvalue="Application.SalaryCalculator" />
-        <item itemvalue="Application.GrossPayCalculator" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +179,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695673160674</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="created grade message app using switch cases">
+      <option name="closed" value="true" />
+      <created>1695674409888</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1695674409888</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -183,6 +196,7 @@
     <MESSAGE value="conditional for salary calculator created" />
     <MESSAGE value="if else conditional and sales quota calculator created" />
     <MESSAGE value="test results grade checker app made with nested conditionals" />
-    <option name="LAST_COMMIT_MESSAGE" value="test results grade checker app made with nested conditionals" />
+    <MESSAGE value="created grade message app using switch cases" />
+    <option name="LAST_COMMIT_MESSAGE" value="created grade message app using switch cases" />
   </component>
 </project>

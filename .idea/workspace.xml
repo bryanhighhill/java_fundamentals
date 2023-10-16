@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36163a21-2e3d-41fe-8196-cf4644085e56" name="Changes" comment="made alternate version of grade message app using switch expressions instead of statements">
-      <change afterPath="$PROJECT_DIR$/src/main/java/loops/GrossPayInputValidation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="36163a21-2e3d-41fe-8196-cf4644085e56" name="Changes" comment="created gross pay validation using while loop">
+      <change beforePath="$PROJECT_DIR$/src/main/java/loops/GrossPayInputValidation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loops/GrossPayInputValidation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -195,7 +194,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695674997291</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="created gross pay validation using while loop">
+      <option name="closed" value="true" />
+      <created>1697473605660</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1697473605660</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -206,6 +213,7 @@
     <MESSAGE value="test results grade checker app made with nested conditionals" />
     <MESSAGE value="created grade message app using switch cases" />
     <MESSAGE value="made alternate version of grade message app using switch expressions instead of statements" />
-    <option name="LAST_COMMIT_MESSAGE" value="made alternate version of grade message app using switch expressions instead of statements" />
+    <MESSAGE value="created gross pay validation using while loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="created gross pay validation using while loop" />
   </component>
 </project>

@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36163a21-2e3d-41fe-8196-cf4644085e56" name="Changes" comment="created grade message app using switch cases">
-      <change afterPath="$PROJECT_DIR$/src/main/java/decision_structure/GradeMessage_SwitchExpressions.java" afterDir="false" />
+    <list default="true" id="36163a21-2e3d-41fe-8196-cf4644085e56" name="Changes" comment="made alternate version of grade message app using switch expressions instead of statements">
+      <change afterPath="$PROJECT_DIR$/src/main/java/loops/GrossPayInputValidation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +46,7 @@
       <recent name="decision_structure" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GradeMessage_SwitchExpressions">
+  <component name="RunManager" selected="Application.GrossPayInputValidation">
     <configuration name="GradeMessage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="decision_structure.GradeMessage" />
       <module name="java_fundamentals" />
@@ -73,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuotaCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="decision_structure.QuotaCalculator" />
+    <configuration name="GrossPayInputValidation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops.GrossPayInputValidation" />
       <module name="java_fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="decision_structure.*" />
+          <option name="PATTERN" value="loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SalaryCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="decision_structure.SalaryCalculator" />
+    <configuration name="QuotaCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="decision_structure.QuotaCalculator" />
       <module name="java_fundamentals" />
       <extension name="coverage">
         <pattern>
@@ -114,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GrossPayInputValidation" />
         <item itemvalue="Application.GradeMessage_SwitchExpressions" />
         <item itemvalue="Application.GradeMessage" />
         <item itemvalue="Application.TestResults" />
         <item itemvalue="Application.QuotaCalculator" />
-        <item itemvalue="Application.SalaryCalculator" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +187,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695674409888</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="made alternate version of grade message app using switch expressions instead of statements">
+      <option name="closed" value="true" />
+      <created>1695674997291</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1695674997291</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -197,6 +205,7 @@
     <MESSAGE value="if else conditional and sales quota calculator created" />
     <MESSAGE value="test results grade checker app made with nested conditionals" />
     <MESSAGE value="created grade message app using switch cases" />
-    <option name="LAST_COMMIT_MESSAGE" value="created grade message app using switch cases" />
+    <MESSAGE value="made alternate version of grade message app using switch expressions instead of statements" />
+    <option name="LAST_COMMIT_MESSAGE" value="made alternate version of grade message app using switch expressions instead of statements" />
   </component>
 </project>

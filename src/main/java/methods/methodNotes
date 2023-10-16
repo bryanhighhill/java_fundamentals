@@ -15,3 +15,10 @@ public static int calculateSum( int number1, int number2) {
     - int number1, int number2: parameter list. required even if no parameters. data that must be sent to method
     - method signature: name of method + parameter list (data type and order)
     - last line of method body must return value declared unless VOID
+
+
+Overloaded methods
+    - a class can have multiple methods with same name, but they must have unique parameter list
+
+Variable Scope
+    - variable is only accessible within scope that it is declared in

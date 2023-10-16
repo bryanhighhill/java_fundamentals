@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36163a21-2e3d-41fe-8196-cf4644085e56" name="Changes" comment="created method to greet user by their user-entered name">
-      <change afterPath="$PROJECT_DIR$/src/main/java/methods/InstantCreditCheck.java" afterDir="false" />
+    <list default="true" id="36163a21-2e3d-41fe-8196-cf4644085e56" name="Changes" comment="created credit check app with methods created to check salary, credit, and boolean for qualified and returns whether or now you qualify for loan">
+      <change afterPath="$PROJECT_DIR$/src/main/java/objects/Rectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/methods/methodNotes" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/methods/methodNotes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/methods/methodNotes" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/notes" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +51,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="decision_structure" />
     </key>
@@ -244,7 +247,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697476964103</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="created credit check app with methods created to check salary, credit, and boolean for qualified and returns whether or now you qualify for loan">
+      <option name="closed" value="true" />
+      <created>1697478041123</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1697478041123</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -260,6 +271,7 @@
     <MESSAGE value="created do while loop to sum numbers with option to repeat application or exit" />
     <MESSAGE value="created cashier app to take in number of items to scan and cost of each individual item, then display the total cost of items. Using for loop" />
     <MESSAGE value="created method to greet user by their user-entered name" />
-    <option name="LAST_COMMIT_MESSAGE" value="created method to greet user by their user-entered name" />
+    <MESSAGE value="created credit check app with methods created to check salary, credit, and boolean for qualified and returns whether or now you qualify for loan" />
+    <option name="LAST_COMMIT_MESSAGE" value="created credit check app with methods created to check salary, credit, and boolean for qualified and returns whether or now you qualify for loan" />
   </component>
 </project>

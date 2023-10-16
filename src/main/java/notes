@@ -38,3 +38,34 @@ Encapsulation
 
 Constructors
     - structures within a class that are used to set the initial state of an object
+
+Records
+    - special type of java class that's great for simple objects "POJO" - plain old java object, fields, setters & getters
+    - type record instead of class
+
+        public record Account(
+            int id,
+            int customerId,
+            String type,
+            double balance) {} - if methods are needed, add in curly braces
+
+            instantiating record:
+            Account account = new Account(12345, 54321, "Checking", 2178.5);
+
+            - no setters with records, cannot change data
+            - double balance = account.balance(); //getter
+
+Wrapper Classes
+    - int number1 = 5;
+    - Integer number2 = 5; //can use dot notation with this declaration
+
+    -Primitive data types - wrapper class
+        - int : Integer
+        - double : Double
+        - long : Long
+        - float : Float
+        - boolean :  Boolean
+        - char : Char
+        - byte : Byte
+
+

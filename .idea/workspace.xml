@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36163a21-2e3d-41fe-8196-cf4644085e56" name="Changes" comment="instantiated rectangle objects using both constructors as home area calculator">
-      <change afterPath="$PROJECT_DIR$/src/main/java/objects/HomeAreaCalculatorV2.java" afterDir="false" />
+    <list default="true" id="36163a21-2e3d-41fe-8196-cf4644085e56" name="Changes" comment="created a second way of instantiated rectangle objects using methods, passing and returnin objects. HomeAreaCalculatorv2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/notes" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/notes" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -271,7 +271,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697480034776</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="created a second way of instantiated rectangle objects using methods, passing and returnin objects. HomeAreaCalculatorv2">
+      <option name="closed" value="true" />
+      <created>1697480712345</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1697480712345</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -290,6 +298,7 @@
     <MESSAGE value="created credit check app with methods created to check salary, credit, and boolean for qualified and returns whether or now you qualify for loan" />
     <MESSAGE value="built class that will create rectangle objects" />
     <MESSAGE value="instantiated rectangle objects using both constructors as home area calculator" />
-    <option name="LAST_COMMIT_MESSAGE" value="instantiated rectangle objects using both constructors as home area calculator" />
+    <MESSAGE value="created a second way of instantiated rectangle objects using methods, passing and returnin objects. HomeAreaCalculatorv2" />
+    <option name="LAST_COMMIT_MESSAGE" value="created a second way of instantiated rectangle objects using methods, passing and returnin objects. HomeAreaCalculatorv2" />
   </component>
 </project>

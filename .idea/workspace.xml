@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36163a21-2e3d-41fe-8196-cf4644085e56" name="Changes" comment="created do while loop to sum numbers with option to repeat application or exit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/loops/Cashier.java" afterDir="false" />
+    <list default="true" id="36163a21-2e3d-41fe-8196-cf4644085e56" name="Changes" comment="created cashier app to take in number of items to scan and cost of each individual item, then display the total cost of items. Using for loop">
+      <change afterPath="$PROJECT_DIR$/src/main/java/methods/GreetUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/methods/methodNotes" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/loops/AddNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loops/AddNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,19 +35,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "TEXT"
+    ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="decision_structure" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Cashier">
+  <component name="RunManager" selected="Application.GreetUser">
     <configuration name="AddNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="loops.AddNumbers" />
       <module name="java_fundamentals" />
@@ -74,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GradeMessage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="decision_structure.GradeMessage" />
+    <configuration name="GradeMessage_SwitchExpressions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="decision_structure.GradeMessage_SwitchExpressions" />
       <module name="java_fundamentals" />
       <extension name="coverage">
         <pattern>
@@ -87,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GradeMessage_SwitchExpressions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="decision_structure.GradeMessage_SwitchExpressions" />
+    <configuration name="GreetUser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="methods.GreetUser" />
       <module name="java_fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="decision_structure.*" />
+          <option name="PATTERN" value="methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GreetUser" />
         <item itemvalue="Application.Cashier" />
         <item itemvalue="Application.AddNumbers" />
         <item itemvalue="Application.GrossPayInputValidation" />
         <item itemvalue="Application.GradeMessage_SwitchExpressions" />
-        <item itemvalue="Application.GradeMessage" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +225,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697474797467</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="created cashier app to take in number of items to scan and cost of each individual item, then display the total cost of items. Using for loop">
+      <option name="closed" value="true" />
+      <created>1697475276708</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1697475276708</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -234,6 +247,7 @@
     <MESSAGE value="created gross pay validation using while loop" />
     <MESSAGE value="added to pay validation conditional to disallow negative numbers from being entered" />
     <MESSAGE value="created do while loop to sum numbers with option to repeat application or exit" />
-    <option name="LAST_COMMIT_MESSAGE" value="created do while loop to sum numbers with option to repeat application or exit" />
+    <MESSAGE value="created cashier app to take in number of items to scan and cost of each individual item, then display the total cost of items. Using for loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="created cashier app to take in number of items to scan and cost of each individual item, then display the total cost of items. Using for loop" />
   </component>
 </project>

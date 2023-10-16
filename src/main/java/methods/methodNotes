@@ -1,0 +1,17 @@
+METHODS
+
+public static int calculateSum( int number1, int number2) {
+
+    int sum = number1 + number2;
+    return sum;
+}
+
+    - declaration of method is called "Method Header"
+    - public, protected, private: access modifier - who has access to method outside of class
+        + public: anyone can access anywhere
+    - static, final, abstract, synchronized: non-access modifier
+    - int: return type. all methods must specify return type. if not returning anything, specify return type of void
+    - calculateSum: name of method - typically in form of verb, with exception of returning boolean
+    - int number1, int number2: parameter list. required even if no parameters. data that must be sent to method
+    - method signature: name of method + parameter list (data type and order)
+    - last line of method body must return value declared unless VOID

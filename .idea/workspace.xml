@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36163a21-2e3d-41fe-8196-cf4644085e56" name="Changes" comment="created credit check app with methods created to check salary, credit, and boolean for qualified and returns whether or now you qualify for loan">
-      <change afterPath="$PROJECT_DIR$/src/main/java/objects/Rectangle.java" afterDir="false" />
+    <list default="true" id="36163a21-2e3d-41fe-8196-cf4644085e56" name="Changes" comment="built class that will create rectangle objects">
+      <change afterPath="$PROJECT_DIR$/src/main/java/objects/HomeAreaCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/methods/methodNotes" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/notes" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -255,7 +254,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697478041123</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="built class that will create rectangle objects">
+      <option name="closed" value="true" />
+      <created>1697479530015</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1697479530015</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -272,6 +279,7 @@
     <MESSAGE value="created cashier app to take in number of items to scan and cost of each individual item, then display the total cost of items. Using for loop" />
     <MESSAGE value="created method to greet user by their user-entered name" />
     <MESSAGE value="created credit check app with methods created to check salary, credit, and boolean for qualified and returns whether or now you qualify for loan" />
-    <option name="LAST_COMMIT_MESSAGE" value="created credit check app with methods created to check salary, credit, and boolean for qualified and returns whether or now you qualify for loan" />
+    <MESSAGE value="built class that will create rectangle objects" />
+    <option name="LAST_COMMIT_MESSAGE" value="built class that will create rectangle objects" />
   </component>
 </project>

@@ -10,6 +10,7 @@ public class AddNumbers {
         boolean again;
 
         //do while loop - something to run at least once, run again based on a condition
+        //conditional controlled, test condition after the loop, use if loop needs to run at least one time
         do{
             System.out.println("Enter your first number");
             double num1 = scanner.nextDouble();

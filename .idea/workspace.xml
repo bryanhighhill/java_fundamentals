@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36163a21-2e3d-41fe-8196-cf4644085e56" name="Changes" comment="added to pay validation conditional to disallow negative numbers from being entered">
-      <change afterPath="$PROJECT_DIR$/src/main/java/loops/AddNumbers.java" afterDir="false" />
+    <list default="true" id="36163a21-2e3d-41fe-8196-cf4644085e56" name="Changes" comment="created do while loop to sum numbers with option to repeat application or exit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/loops/Cashier.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loops/AddNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loops/AddNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,9 +47,22 @@
       <recent name="decision_structure" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AddNumbers">
+  <component name="RunManager" selected="Application.Cashier">
     <configuration name="AddNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="loops.AddNumbers" />
+      <module name="java_fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cashier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops.Cashier" />
       <module name="java_fundamentals" />
       <extension name="coverage">
         <pattern>
@@ -99,26 +113,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestResults" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="decision_structure.TestResults" />
-      <module name="java_fundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="decision_structure.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Cashier" />
         <item itemvalue="Application.AddNumbers" />
         <item itemvalue="Application.GrossPayInputValidation" />
         <item itemvalue="Application.GradeMessage_SwitchExpressions" />
         <item itemvalue="Application.GradeMessage" />
-        <item itemvalue="Application.TestResults" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +212,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697473751806</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="created do while loop to sum numbers with option to repeat application or exit">
+      <option name="closed" value="true" />
+      <created>1697474797467</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1697474797467</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -224,6 +233,7 @@
     <MESSAGE value="made alternate version of grade message app using switch expressions instead of statements" />
     <MESSAGE value="created gross pay validation using while loop" />
     <MESSAGE value="added to pay validation conditional to disallow negative numbers from being entered" />
-    <option name="LAST_COMMIT_MESSAGE" value="added to pay validation conditional to disallow negative numbers from being entered" />
+    <MESSAGE value="created do while loop to sum numbers with option to repeat application or exit" />
+    <option name="LAST_COMMIT_MESSAGE" value="created do while loop to sum numbers with option to repeat application or exit" />
   </component>
 </project>

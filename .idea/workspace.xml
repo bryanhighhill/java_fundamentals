@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36163a21-2e3d-41fe-8196-cf4644085e56" name="Changes" comment="built class that will create rectangle objects">
-      <change afterPath="$PROJECT_DIR$/src/main/java/objects/HomeAreaCalculator.java" afterDir="false" />
+    <list default="true" id="36163a21-2e3d-41fe-8196-cf4644085e56" name="Changes" comment="instantiated rectangle objects using both constructors as home area calculator">
+      <change afterPath="$PROJECT_DIR$/src/main/java/objects/HomeAreaCalculatorV2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,10 +54,11 @@
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="objects" />
       <recent name="decision_structure" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.InstantCreditCheck">
+  <component name="RunManager" selected="Application.HomeAreaCalculatorV2">
     <configuration name="AddNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="loops.AddNumbers" />
       <module name="java_fundamentals" />
@@ -97,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GrossPayInputValidation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loops.GrossPayInputValidation" />
+    <configuration name="HomeAreaCalculatorV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="objects.HomeAreaCalculatorV2" />
       <module name="java_fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loops.*" />
+          <option name="PATTERN" value="objects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HomeAreaCalculatorV2" />
         <item itemvalue="Application.InstantCreditCheck" />
         <item itemvalue="Application.GreetUser" />
         <item itemvalue="Application.Cashier" />
         <item itemvalue="Application.AddNumbers" />
-        <item itemvalue="Application.GrossPayInputValidation" />
       </list>
     </recent_temporary>
   </component>
@@ -262,7 +263,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697479530015</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="instantiated rectangle objects using both constructors as home area calculator">
+      <option name="closed" value="true" />
+      <created>1697480034776</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1697480034776</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -280,6 +289,7 @@
     <MESSAGE value="created method to greet user by their user-entered name" />
     <MESSAGE value="created credit check app with methods created to check salary, credit, and boolean for qualified and returns whether or now you qualify for loan" />
     <MESSAGE value="built class that will create rectangle objects" />
-    <option name="LAST_COMMIT_MESSAGE" value="built class that will create rectangle objects" />
+    <MESSAGE value="instantiated rectangle objects using both constructors as home area calculator" />
+    <option name="LAST_COMMIT_MESSAGE" value="instantiated rectangle objects using both constructors as home area calculator" />
   </component>
 </project>

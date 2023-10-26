@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36163a21-2e3d-41fe-8196-cf4644085e56" name="Changes" comment="created wordProcessor that takes in a sentence, and returns a formatted sentence that tells you how many words are in your sentence and what each word is. Appendngs wariables in the middle of a string using String.format %d as placeholder for digit">
+    <list default="true" id="36163a21-2e3d-41fe-8196-cf4644085e56" name="Changes" comment="created a method that prints a given string backwards &quot;reverseString&quot; using loop and .charAt()">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/strings/TextProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strings/TextProcessor.java" afterDir="false" />
     </list>
@@ -303,7 +303,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698334038577</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="created a method that prints a given string backwards &quot;reverseString&quot; using loop and .charAt()">
+      <option name="closed" value="true" />
+      <created>1698334614220</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1698334614220</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -326,6 +334,22 @@
     <MESSAGE value="additional notes on Records and Wrapper Classes" />
     <MESSAGE value="created lottery ticket generator that generates 6 numbers between 1 and 69 at random" />
     <MESSAGE value="created wordProcessor that takes in a sentence, and returns a formatted sentence that tells you how many words are in your sentence and what each word is. Appendngs wariables in the middle of a string using String.format %d as placeholder for digit" />
-    <option name="LAST_COMMIT_MESSAGE" value="created wordProcessor that takes in a sentence, and returns a formatted sentence that tells you how many words are in your sentence and what each word is. Appendngs wariables in the middle of a string using String.format %d as placeholder for digit" />
+    <MESSAGE value="created a method that prints a given string backwards &quot;reverseString&quot; using loop and .charAt()" />
+    <option name="LAST_COMMIT_MESSAGE" value="created a method that prints a given string backwards &quot;reverseString&quot; using loop and .charAt()" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/strings/TextProcessor.java</url>
+          <line>22</line>
+          <properties class="strings.TextProcessor" method="reverseString">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

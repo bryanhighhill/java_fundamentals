@@ -68,4 +68,9 @@ Wrapper Classes
         - char : Char
         - byte : Byte
 
+Arrays
+    - can hold any type of data but all data in single array must be of same type
+    int[] lottoTicket = new int[6] - integer array that can hold 6 elements
+    int[] lottoTicket = {8, 14, 22, 38, 45, 56}; - declare by defining values
+    - cannot change length once defined
 

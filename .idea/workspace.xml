@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36163a21-2e3d-41fe-8196-cf4644085e56" name="Changes" comment="used the StringBuilder class to create a method that inserts a space before each capital letter in a string with no spaces">
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/InheritanceTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Person.java" afterDir="false" />
+    <list default="true" id="36163a21-2e3d-41fe-8196-cf4644085e56" name="Changes" comment="Inheritance of class members when a class becomes an extension of another class. Super class of person and subclass of employee created to show relation and inheritance between the two.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Square.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/InheritanceTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/InheritanceTester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/notes" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/notes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/objects/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/objects/Rectangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -322,7 +322,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698335120129</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Inheritance of class members when a class becomes an extension of another class. Super class of person and subclass of employee created to show relation and inheritance between the two.">
+      <option name="closed" value="true" />
+      <created>1698336821558</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1698336821558</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -347,7 +355,8 @@
     <MESSAGE value="created wordProcessor that takes in a sentence, and returns a formatted sentence that tells you how many words are in your sentence and what each word is. Appendngs wariables in the middle of a string using String.format %d as placeholder for digit" />
     <MESSAGE value="created a method that prints a given string backwards &quot;reverseString&quot; using loop and .charAt()" />
     <MESSAGE value="used the StringBuilder class to create a method that inserts a space before each capital letter in a string with no spaces" />
-    <option name="LAST_COMMIT_MESSAGE" value="used the StringBuilder class to create a method that inserts a space before each capital letter in a string with no spaces" />
+    <MESSAGE value="Inheritance of class members when a class becomes an extension of another class. Super class of person and subclass of employee created to show relation and inheritance between the two." />
+    <option name="LAST_COMMIT_MESSAGE" value="Inheritance of class members when a class becomes an extension of another class. Super class of person and subclass of employee created to show relation and inheritance between the two." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

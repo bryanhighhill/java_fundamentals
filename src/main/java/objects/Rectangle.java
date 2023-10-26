@@ -17,6 +17,10 @@ public class Rectangle {
         setWidth(width);
     }
 
+    public void print(){
+        System.out.println("i am a rectangle");
+    }
+
 
     //methods
     public double calculatePerimeter() {

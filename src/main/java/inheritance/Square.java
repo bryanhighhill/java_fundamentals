@@ -15,4 +15,11 @@ public class Square extends Rectangle {
     public double calculatePerimeter() {
         return sides * length;
     }
+
+    /*
+    overload print method from rectangle by including different parameters from print() in rectangle
+     */
+    public void print(String what){
+        System.out.println("I am a " + what);
+    }
 }

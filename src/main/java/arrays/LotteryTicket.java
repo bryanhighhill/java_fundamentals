@@ -14,7 +14,9 @@ public class LotteryTicket {
         printTicket(ticket);
     }
 
-
+    /*
+    java doc
+     */
     private static int[] generateNumbers() {
         int[] ticket = new int[LENGTH];
         Random random = new Random();

@@ -88,3 +88,37 @@ Inheritance
 
     - overloading: multiple methods within same class with same name but different parameter list
 
+- Chain of inheritance
+    - a class can only explicitly inherit from one superclass
+    - a superclass can also inherit from another class
+
+    - when a subclass inherits from a superclass not everything is inherited
+        - constructors are not inherited (technically not considered members of the class)
+        - public and protected are inherited, but private are not
+        - final methods can be inherited but not overridden
+
+        - when overriding inherited method, it must be declared as strict or less strict. you will get errors if it is more strict
+
+        - Sealed Classes - classes that restrict inheritance to specific classes
+            public sealed class Shape permits Rectangle, Circle{}
+            public class Rectangle extends Shape {}
+            public class Circle extends Shape {}
+
+            - children of sealed classes are required to declare themselves as sealed, non-sealed, or final
+            public sealed class Shape permits Rectangle, Circle {}
+            public sealed class Rectangle extends Shape permits Square {}
+
+            public non-sealed class Circle extends Shape {}
+            - any child class that extends circle is not obligated to declare as sealed, non-sealed, or final
+
+            public final class Square extends Rectangle {}
+            - no subclasses can be declared after Square
+
+            SEALED
+            -sealed class grant inheritance permission
+            - permitted subclass must extend sealed class
+            - permitted subclass must be sealed, non-sealed, or final
+
+
+
+

@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36163a21-2e3d-41fe-8196-cf4644085e56" name="Changes" comment="created lottery ticket generator that generates 6 numbers between 1 and 69 at random">
-      <change afterPath="$PROJECT_DIR$/src/main/java/strings/TextProcessor.java" afterDir="false" />
+    <list default="true" id="36163a21-2e3d-41fe-8196-cf4644085e56" name="Changes" comment="created wordProcessor that takes in a sentence, and returns a formatted sentence that tells you how many words are in your sentence and what each word is. Appendngs wariables in the middle of a string using String.format %d as placeholder for digit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/LotteryTicket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arrays/LotteryTicket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/strings/TextProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strings/TextProcessor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -296,7 +295,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698332712329</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="created wordProcessor that takes in a sentence, and returns a formatted sentence that tells you how many words are in your sentence and what each word is. Appendngs wariables in the middle of a string using String.format %d as placeholder for digit">
+      <option name="closed" value="true" />
+      <created>1698334038577</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1698334038577</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -318,6 +325,7 @@
     <MESSAGE value="created a second way of instantiated rectangle objects using methods, passing and returnin objects. HomeAreaCalculatorv2" />
     <MESSAGE value="additional notes on Records and Wrapper Classes" />
     <MESSAGE value="created lottery ticket generator that generates 6 numbers between 1 and 69 at random" />
-    <option name="LAST_COMMIT_MESSAGE" value="created lottery ticket generator that generates 6 numbers between 1 and 69 at random" />
+    <MESSAGE value="created wordProcessor that takes in a sentence, and returns a formatted sentence that tells you how many words are in your sentence and what each word is. Appendngs wariables in the middle of a string using String.format %d as placeholder for digit" />
+    <option name="LAST_COMMIT_MESSAGE" value="created wordProcessor that takes in a sentence, and returns a formatted sentence that tells you how many words are in your sentence and what each word is. Appendngs wariables in the middle of a string using String.format %d as placeholder for digit" />
   </component>
 </project>

@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36163a21-2e3d-41fe-8196-cf4644085e56" name="Changes" comment="created a method that prints a given string backwards &quot;reverseString&quot; using loop and .charAt()">
+    <list default="true" id="36163a21-2e3d-41fe-8196-cf4644085e56" name="Changes" comment="used the StringBuilder class to create a method that inserts a space before each capital letter in a string with no spaces">
+      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/InheritanceTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/strings/TextProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strings/TextProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/notes" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/notes" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,13 +61,13 @@
       <recent name="decision_structure" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TextProcessor">
-    <configuration name="GreetUser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="methods.GreetUser" />
+  <component name="RunManager" selected="Application.InheritanceTester">
+    <configuration name="HomeAreaCalculatorV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="objects.HomeAreaCalculatorV2" />
       <module name="java_fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="methods.*" />
+          <option name="PATTERN" value="objects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeAreaCalculatorV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="objects.HomeAreaCalculatorV2" />
+    <configuration name="InheritanceTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inheritance.InheritanceTester" />
       <module name="java_fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="objects.*" />
+          <option name="PATTERN" value="inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InheritanceTester" />
         <item itemvalue="Application.TextProcessor" />
         <item itemvalue="Application.LotteryTicket" />
         <item itemvalue="Application.HomeAreaCalculatorV2" />
         <item itemvalue="Application.InstantCreditCheck" />
-        <item itemvalue="Application.GreetUser" />
       </list>
     </recent_temporary>
   </component>
@@ -311,7 +314,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698334614220</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="used the StringBuilder class to create a method that inserts a space before each capital letter in a string with no spaces">
+      <option name="closed" value="true" />
+      <created>1698335120129</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1698335120129</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -335,7 +346,8 @@
     <MESSAGE value="created lottery ticket generator that generates 6 numbers between 1 and 69 at random" />
     <MESSAGE value="created wordProcessor that takes in a sentence, and returns a formatted sentence that tells you how many words are in your sentence and what each word is. Appendngs wariables in the middle of a string using String.format %d as placeholder for digit" />
     <MESSAGE value="created a method that prints a given string backwards &quot;reverseString&quot; using loop and .charAt()" />
-    <option name="LAST_COMMIT_MESSAGE" value="created a method that prints a given string backwards &quot;reverseString&quot; using loop and .charAt()" />
+    <MESSAGE value="used the StringBuilder class to create a method that inserts a space before each capital letter in a string with no spaces" />
+    <option name="LAST_COMMIT_MESSAGE" value="used the StringBuilder class to create a method that inserts a space before each capital letter in a string with no spaces" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -348,6 +360,11 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/inheritance/InheritanceTester.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -74,3 +74,16 @@ Arrays
     int[] lottoTicket = {8, 14, 22, 38, 45, 56}; - declare by defining values
     - cannot change length once defined
 
+
+Inheritance
+    - one class inherits the members of another class
+    - 2 parties involved: parent and child
+        - parent - super class, parent class, base class
+        - child - sub class, derived class, child class
+    - inheritance relationship known as "is a" relationship
+    - subclass is a specialized type of person
+
+    - constructors in superclass are executed before constructors in subclass
+    - explicit calls can be made to superclass constructor from subclass constructor using super() - if call is made, must be first line of constructor
+
+
